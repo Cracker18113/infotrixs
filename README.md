@@ -1,4 +1,5 @@
-# infotrixs first task Here is the link of the static<html lang="en">
+Infotrix first task Here is the link of the static portfolio website hosted in Amazom s3 https://infotrixs1.s3.ap-south-1.amazonaws.com/sriram+portfoloio.html
+<html lang="en">
 <head>
 <link rel="stylesheet" href="portfolio.css">
   <meta charset="UTF-8" />
